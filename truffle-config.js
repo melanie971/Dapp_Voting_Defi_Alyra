@@ -26,6 +26,9 @@ const path = require("path");
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
+const HDWalletProvider = require('@truffle/hdwallet-provider');
+require('dotenv').config();
+
 module.exports = {
   contracts_build_directory: path.join(__dirname, "client/src/contracts"),
   /**
@@ -50,6 +53,18 @@ module.exports = {
       port: 7545,            // Standard Ethereum port (default: none)
       network_id: "5777",       // Any network (default: none)
      },
+     rinkeby: {
+      provider: function() {
+        return new HDWalletProvider(`${process.env.MNEMONIC}`, `https://ropsten.infura.io/v3/${process.env.INFURA_ID}`)
+      },
+      network_id: 3
+    },
+    ropsten: {
+      provider: function() {
+        return new HDWalletProvider(`${process.env.MNEMONIC}`, `https://rinkeby.infura.io/v3/${process.env.INFURA_ID}`)
+      },
+      network_id: 4
+    }
     // Another network with more advanced options...
     // advanced: {
     // port: 8777,             // Custom port
