@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DappVotingSystemDeployed/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/DappVotingSystemDeployed/static/js/main.9ecee441.chunk.js",
-    "main.js.map": "/DappVotingSystemDeployed/static/js/main.9ecee441.chunk.js.map",
-    "runtime-main.js": "/DappVotingSystemDeployed/static/js/runtime-main.40e93436.js",
-    "runtime-main.js.map": "/DappVotingSystemDeployed/static/js/runtime-main.40e93436.js.map",
-    "static/css/2.af317cf5.chunk.css": "/DappVotingSystemDeployed/static/css/2.af317cf5.chunk.css",
-    "static/js/2.06861fe0.chunk.js": "/DappVotingSystemDeployed/static/js/2.06861fe0.chunk.js",
-    "static/js/2.06861fe0.chunk.js.map": "/DappVotingSystemDeployed/static/js/2.06861fe0.chunk.js.map",
-    "index.html": "/DappVotingSystemDeployed/index.html",
-    "precache-manifest.34898f2bd267ab8f281f72fb66e37eca.js": "/DappVotingSystemDeployed/precache-manifest.34898f2bd267ab8f281f72fb66e37eca.js",
-    "service-worker.js": "/DappVotingSystemDeployed/service-worker.js",
-    "static/css/2.af317cf5.chunk.css.map": "/DappVotingSystemDeployed/static/css/2.af317cf5.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/DappVotingSystemDeployed/static/css/main.5e4e9510.chunk.css.map"
+    "main.css": "/Dapp_Voting_Defi_Alyra/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/Dapp_Voting_Defi_Alyra/static/js/main.ec5a3559.chunk.js",
+    "main.js.map": "/Dapp_Voting_Defi_Alyra/static/js/main.ec5a3559.chunk.js.map",
+    "runtime-main.js": "/Dapp_Voting_Defi_Alyra/static/js/runtime-main.47caeea3.js",
+    "runtime-main.js.map": "/Dapp_Voting_Defi_Alyra/static/js/runtime-main.47caeea3.js.map",
+    "static/css/2.af317cf5.chunk.css": "/Dapp_Voting_Defi_Alyra/static/css/2.af317cf5.chunk.css",
+    "static/js/2.06861fe0.chunk.js": "/Dapp_Voting_Defi_Alyra/static/js/2.06861fe0.chunk.js",
+    "static/js/2.06861fe0.chunk.js.map": "/Dapp_Voting_Defi_Alyra/static/js/2.06861fe0.chunk.js.map",
+    "index.html": "/Dapp_Voting_Defi_Alyra/index.html",
+    "precache-manifest.c523dfbd2f9a120eb965359d8e3f9a12.js": "/Dapp_Voting_Defi_Alyra/precache-manifest.c523dfbd2f9a120eb965359d8e3f9a12.js",
+    "service-worker.js": "/Dapp_Voting_Defi_Alyra/service-worker.js",
+    "static/css/2.af317cf5.chunk.css.map": "/Dapp_Voting_Defi_Alyra/static/css/2.af317cf5.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/Dapp_Voting_Defi_Alyra/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.40e93436.js",
+    "static/js/runtime-main.47caeea3.js",
     "static/css/2.af317cf5.chunk.css",
     "static/js/2.06861fe0.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.9ecee441.chunk.js"
+    "static/js/main.ec5a3559.chunk.js"
   ]
 }
